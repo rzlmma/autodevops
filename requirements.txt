@@ -1,0 +1,8 @@
+flask-appbuilder
+mysqlclient
+alembic==0.9.9
+ansible==2.5.15
+paramiko
+gunicorn
+gevent
+flask-apscheduler

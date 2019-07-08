@@ -1,4 +1,4 @@
-# autodevops
+# autodevelop
 使用flaskappbuilder开发的简版自动化运维平台
 
 它包含3大功能：用户管理，资产管理和项目部署，其中用户管理使用的是flask-appbuilder自带的功能

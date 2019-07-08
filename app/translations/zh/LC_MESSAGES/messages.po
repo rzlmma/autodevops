@@ -1,0 +1,86 @@
+# Chinese translations for PROJECT.
+# Copyright (C) 2018 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2018-03-26 15:33+0800\n"
+"PO-Revision-Date: 2018-03-26 15:33+0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh\n"
+"Language-Team: zh <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.3\n"
+
+#: app/templates/404.html:4
+msgid "Page not found"
+msgstr ""
+
+msgid "Name"
+msgstr "主机名"
+
+msgid "Ip"
+msgstr "IP"
+
+msgid "Username"
+msgstr "用户名"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Assets"
+msgstr "资产管理"
+
+msgid "host"
+msgstr "主机列表"
+
+msgid "script"
+msgstr "脚本管理"
+
+msgid "task"
+msgstr "任务管理"
+
+msgid "db"
+msgstr "数据库管理"
+
+msgid "Projects"
+msgstr "项目管理"
+
+msgid "project"
+msgstr "项目列表"
+
+msgid "preproject"
+msgstr "预发布部署"
+
+msgid "record"
+msgstr "项目操作记录"
+
+msgid "proproject"
+msgstr "生产部署"
+
+
+msgid "prorollback"
+msgstr "生产回滚"
+
+msgid "joincolony"
+msgstr "生产-加入集群"
+
+msgid "Monitor"
+msgstr "监控"
+
+msgid "consume"
+msgstr "消费"
+
+msgid "service"
+msgstr "微服务"
+
+
+
+
+
